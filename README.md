@@ -9,7 +9,7 @@
 test里的数据可以用来测试，拖入或者打开都可以
 
 效果图如下：
-![result](https://github.com/zhenhao-huang/file-detection-tool/blob/master/result/1.1%E5%88%9D%E5%A7%8B%E7%95%8C%E9%9D%A2-%E6%9C%80%E5%A4%A7%E5%8C%96.png)
+![result](https://github.com/zhenhao-huang/file-detection-tool/blob/master/result/1.1%E5%88%9D%E5%A7%8B%E7%95%8C%E9%9D%A2.png)
 ![result](https://github.com/zhenhao-huang/file-detection-tool/blob/master/result/1.2hover%E5%92%8C%E6%8B%96%E6%8B%BD%E6%96%87%E4%BB%B6%E6%97%B6.png)
 ![result](https://github.com/zhenhao-huang/file-detection-tool/blob/master/result/1.3%E8%BF%9B%E5%BA%A6%E6%9D%A1%E8%BF%9B%E7%A8%8B.png)
 ![result](https://github.com/zhenhao-huang/file-detection-tool/blob/master/result/1.4%E7%BB%93%E6%9E%9C-%E6%B2%A1%E6%9C%89%E5%BC%82%E5%B8%B8%E5%B8%A7.png)
