@@ -1,10 +1,10 @@
-# -*- mode: python ; coding: utf-8 -*-
+# -*- mode: python -*-
 
 block_cipher = None
 
 
 a = Analysis(['GUIRun.py'],
-             pathex=['C:\\Users\\huangzh\\Desktop\\ÂùèÂ∏ßÊ£ÄÊµãÈÉ®ÁΩ≤'],
+             pathex=['C:\\Users\\acer\\Desktop\\ºÚ¿˙\\∑ΩÃÿ\\ªµ÷°ºÏ≤‚π§æﬂ'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -28,6 +28,5 @@ exe = EXE(pyz,
           bootloader_ignore_signals=False,
           strip=False,
           upx=True,
-          upx_exclude=[],
           runtime_tmpdir=None,
           console=False , icon='badcheck.ico')
